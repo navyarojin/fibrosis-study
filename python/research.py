@@ -1,4 +1,3 @@
-"""Versioned research calculations; no questionnaire wording is distributed."""
 import math, itertools, warnings
 import numpy as np
 from scipy import stats
